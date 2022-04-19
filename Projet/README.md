@@ -2,6 +2,8 @@
 
 ## Projet de session
 
+### QS World University Rankings (2017 to 2022)
+
 Le pdf du rapport se trouve en racine de `rapport/`. Le code source y est mis également à titre consultatif.
 
 Les notebook de présentation sont à la racine de `source/`.
